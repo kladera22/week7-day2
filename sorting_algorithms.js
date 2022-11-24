@@ -55,5 +55,5 @@ const insertionSortMethod = (arr) => {
         arr[j + 1] = currVal
     }
     return arr
-}
+} 
 // console.log(insertionSortMethod(arr))
